@@ -1,0 +1,5 @@
+#忽略 1.doc文件
+1.doc
+#忽略test文件夹
+test/
+xy.js
